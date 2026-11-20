@@ -1,0 +1,6 @@
+{
+  "name": "StatusVault",
+  "description": "Save, preview, and organize WhatsApp photo and video statuses directly to your device gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
